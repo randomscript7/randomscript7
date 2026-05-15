@@ -2,15 +2,19 @@
 
 My journey into computer science started in high school. I started coding using a Raspberry Pi, a tiny LCD screen I could barely read, and Nano for an IDE. Since then, I've  expanded my interests into various fields notably including AI and System Architecture.
 
+
+
 ## Currently...
 
 - **3 Hackathons attended** so far, focused on Quantum Computing (HardHaQ'25), Investment Finance (HTM'26), and Generative AI (GenAIGenesis'26).
 - **VP of Infrastructure at 3DWestern**, developing software to enhance internal operations.
 - **Creating my Portfolio**, to better showcase my skills.
 
+
+
 ## Some of my favourite (Non-hackathon) Projects
 
-- **Networking Tutor** - Server attached to a Classroom LAN that hosted several AI models trained on data sourced directly from the class curriculum. There were two notable models: A tutor to help students study for class tests trained on review materials, a virtual class teacher which could answer any question asked, rejecting inappropriate questions, and with its own personality. I learned a lot about AI/ML with this high school project.
+- **Networking Tutor** - Server attached to a Classroom LAN that hosted several AI models trained on data sourced directly from the class curriculum. There were two notable models: A tutor to help students study for class tests trained on review materials, and a virtual class teacher which could answer any question asked with its own personality (while rejecting inappropriate questions). I learned a lot about AI/ML with this high school project.
 
 - **[Undertaker](https://github.com/randomscript7/undertaker)** - Personal toolbelt of handwritten bash scripts. Designed to  work out of the box on any Debian Linux machine. Regularly updated. If I learn something new and/or do it often, it probably has an automation script here.
 
