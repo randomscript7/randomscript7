@@ -1,4 +1,4 @@
-# Hey, I'm Sasha Cvetkovic
+# Hey, I'm [Sasha Cvetkovic](https://sashacvetkovic.com)
 
 My journey into computer science started in high school. I started coding using a Raspberry Pi, a tiny LCD screen I could barely read, and Nano for an IDE. Since then, I've  expanded my interests into various fields notably including AI and System Architecture.
 
@@ -7,8 +7,8 @@ My journey into computer science started in high school. I started coding using 
 ## Currently...
 
 - **3 Hackathons attended** so far, focused on Quantum Computing (HardHaQ'25), Investment Finance (HTM'26), and Generative AI (GenAIGenesis'26).
-- **VP of Infrastructure at 3DWestern**, developing software to enhance internal operations.
-- **Creating my Portfolio**, to better showcase my skills.
+- **VP of Dev Infrastructure at 3DWestern**, developing a self-sustaining knowledge covering all club operations.
+- **Working on another personal project**, but it's a secret for now...
 
 
 
@@ -18,8 +18,7 @@ My journey into computer science started in high school. I started coding using 
 
 - **[Undertaker](https://github.com/randomscript7/undertaker)** - Personal toolbelt of handwritten bash scripts. Designed to  work out of the box on any Debian Linux machine. Regularly updated. If I learn something new and/or do it often, it probably has an automation script here.
 
-- **[Excel-Verifier](https://github.com/randomscript7/MS-scripts)** - Organically written and devised algorithm for verifying accounting entries in Microsoft Excel. Written in high school, this was my introduction to both algorithms and TypeScript. While only a small project, I learned more than some classes have taught me. Packaged along with some other Microsoft-focused tools I've built.
-
+- **[Glitchd](https://github.com/randomscript7/glitchd)** - Create your own glitch effect to add to any static image! I built this when I wanted to make a live desktop wallpaper, but couldn't find the tool I needed. Written and fully vectorized with NumPy, this project taught me a lot about program optimization.
 
 
 ## Some skills I've used so far
@@ -56,6 +55,7 @@ My journey into computer science started in high school. I started coding using 
     <td align="center"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></td>
     <td align="center"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" /></td>
     <td align="center"><img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></td>
   </tr>
 </table>
 
